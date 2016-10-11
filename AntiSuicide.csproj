@@ -40,22 +40,22 @@
   </ItemGroup>
   <ItemGroup>
     <Reference Include="Assembly-CSharp">
-      <HintPath>..\..\Rocket.Unturned_1020\Assembly-CSharp.dll</HintPath>
+      <HintPath>lib\Assembly-CSharp.dll</HintPath>
     </Reference>
     <Reference Include="Assembly-CSharp-firstpass">
-      <HintPath>D:\Steam\steamapps\common\Unturned\Unturned_Data\Managed\Assembly-CSharp-firstpass.dll</HintPath>
+      <HintPath>lib\Assembly-CSharp-firstpass.dll</HintPath>
     </Reference>
     <Reference Include="Rocket.API">
-      <HintPath>..\..\Rocket.Unturned_1020\Rocket.API.dll</HintPath>
+      <HintPath>lib\Rocket.API.dll</HintPath>
     </Reference>
     <Reference Include="Rocket.Core">
-      <HintPath>..\..\Rocket.Unturned_1020\Rocket.Core.dll</HintPath>
+      <HintPath>lib\Rocket.Core.dll</HintPath>
     </Reference>
     <Reference Include="Rocket.Unturned">
-      <HintPath>..\..\Rocket.Unturned_1020\Rocket.Unturned.dll</HintPath>
+      <HintPath>lib\Rocket.Unturned.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine">
-      <HintPath>D:\Steam\steamapps\common\Unturned\Unturned_Data\Managed\UnityEngine.dll</HintPath>
+      <HintPath>lib\UnityEngine.dll</HintPath>
     </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
